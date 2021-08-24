@@ -12,10 +12,10 @@ Skills: C++ / Java / Kotlin / Flutter
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R3TR00&show_icons=true&theme=react)
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=R3TR00&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R3TR00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=R3TR00)  
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=R3TR00)  
 

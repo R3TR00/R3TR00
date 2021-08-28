@@ -1,8 +1,7 @@
 ### Hi there 👋, my name is Hozifa Nasef
 #### Android & Flutter Developer       
-<p align="center">
 ![Android & Flutter Developer](https://github.com/R3TR00/R3TR00/blob/main/banner.jpg)
-</p>
+
 
 My name is Hozifa Nasef, and I'm a computer science student @ BFCAI. studying mobile application development and Artificial Intelligence.   
 <p align="center">

@@ -3,7 +3,7 @@
 
 ![Android & Flutter Developer](https://github.com/R3TR00/R3TR00/blob/main/banner.jpg)
 
-My name is Hozifa Nasef, and I'm a computer science student @ BFCAI. studying mobile application development and Artificial Intelligence.
+My name is Hozifa Nasef, and I'm a computer science student @ BFCAI. studying mobile application development and Artificial Intelligence.   
 “磨穿鉄硯” (Masen Tekken).
 
 Skills:

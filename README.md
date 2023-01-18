@@ -17,11 +17,6 @@ Skills:
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/R3TR00)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/hozifa-nasef/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/H.Nasef512)  
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=R3TR00&show_icons=true&theme=react)
-
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=R3TR00&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=R3TR00&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=R3TR00) 
 

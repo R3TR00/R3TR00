@@ -3,7 +3,7 @@
 ![Android & Flutter Developer](https://github.com/R3TR00/R3TR00/blob/main/banner.jpg)
 
 
-My name is Huzayfah Nasef, and I'm a computer science student @ BFCAI. studying Software development and Artificial Intelligence.   
+My name is Huzayfah Nasef, and I'm a computer science student @ BFCAI. Studying Software development and Artificial Intelligence.   
 <p align="center">
       "لَا أَبْرَحُ حَتَّىٰ أَبْلُغَ"
 </p>                                                                 

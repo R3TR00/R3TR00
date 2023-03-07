@@ -1,4 +1,4 @@
-### Hi there 👋, my name is Huzayfah Nasef
+### Hi there 👋, My name is Huzayfah Nasef
 #### Software Engineer       
 ![Android & Flutter Developer](https://github.com/R3TR00/R3TR00/blob/main/banner.jpg)
 

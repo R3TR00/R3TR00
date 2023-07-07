@@ -1,9 +1,8 @@
 ### Hi there 👋, My name is Huzayfah Nasef
 #### Software Engineer       
-![Android & Flutter Developer](https://github.com/R3TR00/R3TR00/blob/main/banner.jpg)
 
-
-My name is Huzayfah Nasef, and I'm a computer science student @ BFCAI. Studying Software development and Artificial Intelligence.   
+My name is Huzayfah Nasef, and I'm a computer science student @ BFCAI. Studying Software development and Artificial Intelligence. 
+ASP.Net Core web developer.
 <p align="center">
       "لَا أَبْرَحُ حَتَّىٰ أَبْلُغَ"
 </p>                                                                 
@@ -16,5 +15,3 @@ My name is Huzayfah Nasef, and I'm a computer science student @ BFCAI. Studying 
 
 
 ![GitHub streak stats](https://github-readme-streak-stats.herokuapp.com/?user=R3TR00) 
-
-![Profile views](https://gpvc.arturio.dev/R3TR00)  

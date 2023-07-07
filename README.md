@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Huzayfah Nasef</h1>
 <h3 align="center">ASP.Net Core Developer</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=r3tr00" alt="r3tr00" /></a> </p>
-
 - 🌱 I’m currently learning **ASP.Net, Angular**
+
+- Contact Email **hozifa512@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

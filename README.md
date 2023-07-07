@@ -1,13 +1,12 @@
 <h1 align="center">Hi 👋, I'm Huzayfah Nasef</h1>
 <h3 align="center">ASP.Net Core Developer</h3>
-<img align="center" alt="Coding" width=800 height=400 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWg4OG1pM3RhcmFvOWR2cHRnMDNya2kxNnd1NW9xMDRqYzc5YjdxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width=500 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWg4OG1pM3RhcmFvOWR2cHRnMDNya2kxNnd1NW9xMDRqYzc5YjdxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=r3tr00&label=Profile%20views&color=9d9b9b&style=flat" alt="r3tr00" /> </p>
 
-<p align="left"> <a href="https://twitter.com/hozifanasef" target="blank"><img src="https://img.shields.io/twitter/follow/hozifanasef?logo=twitter&style=for-the-badge" alt="hozifanasef" /></a> </p>
 
 - 🌱 I’m currently learning **ASP.Net, Angular**
-
+- Studied Computer Science at Benha Faculty of Computers and Artificial Intelligence (BFCAI)
+- Studied Machine learning and Deep learning at Samsung Innovation Campus 
 - Contact Email **hozifa512@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -27,4 +26,6 @@ a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img s
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r3tr00&show_icons=true&theme=onedark&title_color=ffffff&text_color=ffffff&locale=en" alt="r3tr00" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r3tr00&theme=dark" alt="r3tr00" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=r3tr00&label=Profile%20views&color=9d9b9b&style=flat" alt="r3tr00" /> </p>
 
+<p align="left"> <a href="https://twitter.com/hozifanasef" target="blank"><img src="https://img.shields.io/twitter/follow/hozifanasef?logo=twitter&style=for-the-badge" alt="hozifanasef" /></a> </p>

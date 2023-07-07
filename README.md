@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Huzayfah Nasef</h1>
 <h3 align="center">ASP.Net Core Developer</h3>
-<img align="center" alt="Coding" width=700 height=100 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWg4OG1pM3RhcmFvOWR2cHRnMDNya2kxNnd1NW9xMDRqYzc5YjdxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="center" alt="Coding" width=700 height=400 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWg4OG1pM3RhcmFvOWR2cHRnMDNya2kxNnd1NW9xMDRqYzc5YjdxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=r3tr00&label=Profile%20views&color=9d9b9b&style=flat" alt="r3tr00" /> </p>
 

@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Huzayfah Nasef</h1>
 <h3 align="center">ASP.Net Core Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=r3tr00&label=Profile%20views&color=0e75b6&style=flat" alt="r3tr00" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=r3tr00&label=Profile%20views&color=9d9b9b&style=flat" alt="r3tr00" /> </p>
 
 <p align="left"> <a href="https://twitter.com/hozifanasef" target="blank"><img src="https://img.shields.io/twitter/follow/hozifanasef?logo=twitter&style=for-the-badge" alt="hozifanasef" /></a> </p>
 
@@ -22,6 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=r3tr00&show_icons=true&theme=onedark&title_color=ffffff&text_color=ffffff&locale=en&layout=compact" alt="r3tr00" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r3tr00&show_icons=true&theme=onedark&title_color=ffffff&text_color=ffffff&hide_border=true&locale=en" alt="r3tr00" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=r3tr00&show_icons=true&theme=onedark&title_color=ffffff&text_color=ffffff&locale=en" alt="r3tr00" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=r3tr00&theme=dark" alt="r3tr00" /></p>

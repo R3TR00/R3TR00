@@ -2,7 +2,7 @@
 #### Software Engineer       
 
 My name is Huzayfah Nasef, and I'm a computer science student @ BFCAI. Studying Software development and Artificial Intelligence. 
-ASP.Net Core web developer.
+/n ASP.Net Core web developer.
 <p align="center">
       "لَا أَبْرَحُ حَتَّىٰ أَبْلُغَ"
 </p>                                                                 

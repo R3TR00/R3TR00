@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Huzayfah Nasef</h1>
-<h3 align="center">ASP.Net Core Developer</h3>
+<h3 align="center">ASP.Net Developer</h3>
 <img align="right" alt="Coding" width=500 src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWg4OG1pM3RhcmFvOWR2cHRnMDNya2kxNnd1NW9xMDRqYzc5YjdxdCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif">
 
 

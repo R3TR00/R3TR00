@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="44" viewBox="0 0 900 44" role="img" aria-label="Terminal footer — EOF exit 0">
+  <defs>
+    <linearGradient id="footBg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0b1017"/>
+      <stop offset="100%" stop-color="#0d141f"/>
+    </linearGradient>
+  </defs>
+  <rect x="1" y="1" width="898" height="42" rx="8" fill="url(#footBg)" stroke="#1e2d3d" stroke-width="1.2"/>
+  <text x="20" y="26" font-family="'JetBrains Mono', 'Fira Code', 'SFMono-Regular', Consolas, monospace" font-size="11.5">
+    <tspan fill="#00e599" font-weight="700">r3tr00@github</tspan>
+    <tspan fill="#64748b">:~$ </tspan>
+    <tspan fill="#cbd5e1">echo "Always building, learning, and shipping."</tspan>
+  </text>
+  <text x="866" y="26" text-anchor="end" font-family="'JetBrains Mono', 'SFMono-Regular', Consolas, monospace" font-size="11" fill="#64748b">
+    <tspan fill="#38bdf8">[EOF]</tspan>
+    <tspan> exit 0</tspan>
+  </text>
+  <rect x="873" y="16" width="6.5" height="12" fill="#00e599">
+    <animate attributeName="opacity" values="1;1;0;0" keyTimes="0;0.49;0.5;1" dur="1.1s" repeatCount="indefinite"/>
+  </rect>
+</svg>
